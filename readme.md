@@ -6,7 +6,3 @@
 
 ![alt text](spider12_cad.png)
 
-![alt text](dog12_cad.png)
-
-![alt text](dog12_real.jpg)
-
